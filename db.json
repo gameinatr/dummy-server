@@ -1,0 +1,14 @@
+{
+  "error": {
+    "status": "error",
+    "fields": {
+      "name": "This name already exists",
+      "email": "This email already exists",
+      "phone": "Country is not available"
+    }
+  },
+  "success": {
+    "status": "success",
+    "msg": "Your message has been succesfully sent"
+  }
+}
